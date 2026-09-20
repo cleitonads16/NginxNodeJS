@@ -1,0 +1,13 @@
+{
+  "name": "nginx-nodejs",
+  "version": "1.0.0",
+  "description": "Nginx as a reverse proxy with Node.js and MySQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.3.0"
+  }
+}
