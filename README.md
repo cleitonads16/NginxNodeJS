@@ -60,7 +60,7 @@ http://localhost:8080
 
 ## Docker Hub
 
-- https://hub.docker.com/r/cleitonads16/NginxNodeJS
+- https://hub.docker.com/r/cleitonads16/nginxnodejs
 
 ## Estrutura do projeto
 
